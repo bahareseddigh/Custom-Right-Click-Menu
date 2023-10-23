@@ -28,3 +28,20 @@ body{
     padding: 5px 10px;
     cursor: pointer;
 }
+.menu .item i{
+    padding-right: 10px;
+}
+.menu .item:hover{
+    background-color: #f2f2f2;
+    border-radius: 5px;
+}
+.menu .setting{
+    border-top: 1px solid #ccc;
+    margin: 10px 0;
+    padding-top: 10px;
+}
+
+
+
+
+
