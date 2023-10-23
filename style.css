@@ -13,3 +13,18 @@ body{
     min-height: 100vh;
     background: linear-gradient(to right, #ff9966, #ff5e62);
 }
+.container{
+    width: 300px;
+    background: #fff;
+    border-radius: 10px;
+    padding: 15px 10px;
+    box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
+}
+.container .menu{
+    list-style-type: none;
+    padding: 0 10px;
+}
+.menu .item{
+    padding: 5px 10px;
+    cursor: pointer;
+}
