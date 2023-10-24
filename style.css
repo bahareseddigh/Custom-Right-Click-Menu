@@ -41,7 +41,22 @@ body{
     margin: 10px 0;
     padding-top: 10px;
 }
-
+.menu .share{
+    position: relative;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.menu .share .share-menu{
+    position: absolute;
+    list-style-type: none;
+    width: 170px;
+    left: 260px;
+    background-color: #fff;
+    box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
+    border-radius: 10px;
+    padding: 10px 5px;
+}
 
 
 
